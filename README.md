@@ -83,5 +83,5 @@ Si completaste las tareas anteriores, ¡prueba las siguientes tareas extra para 
 6. ¿Puedes asignar los números generados de la secuencia a elementos en una lista o arreglo?  
 
 7. ¿Cómo intentarías reemplazar una secuencia de números primos impares con una nueva palabra dentro de una lista o arreglo?  
-    * Se proporciona un ejemplo de lista en el arreglo **buzzWords**. ¡Agrega tus propias palabras para números primos más grandes!  
+    *¡Agrega tus propias palabras para números primos más grandes!  
 
